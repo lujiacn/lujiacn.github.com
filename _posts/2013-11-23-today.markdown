@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Today"
+title: "today"
 published: true
 ---
+
 
 # Learn markdown
 
