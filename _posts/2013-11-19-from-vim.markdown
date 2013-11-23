@@ -1,0 +1,7 @@
+---
+layout: post
+title: "From vim"
+published: true
+---
+
+This is a test also :p
